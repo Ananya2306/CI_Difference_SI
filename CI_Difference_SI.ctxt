@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CI_Difference_SI
+comment0.text=\r\nWrite\ a\ program\ to\ input\ principal,\ rate\ and\ time.\r\nCalculate\ and\ Display\ the\ difference\ between\ Simple\ Interest\ (SI)\ and\ Compound\ Interest\ (CI)\ by\ using\ function\ argument.\r\n
+comment1.params=p\ r\ t
+comment1.target=void\ main(int,\ int,\ int)
+numComments=2
